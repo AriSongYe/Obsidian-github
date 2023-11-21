@@ -1,0 +1,1 @@
+클라이언트(Client)는 네트워크 또는 [[Computer Systems]]에서 [[Service]], [[Data]], 또는 [[Resource]]를 요청하고 해당 [[Request]]에 대한 [[Response]] 을 받는 디지털 기기 또는 프로그램입니다. 클라이언트는 [[Network]] 서비스를 사용하는 측면에서 [[Server]]와 상호 작용하며, 클라이언트-서버 모델에서 클라이언트 역할을 합니다.

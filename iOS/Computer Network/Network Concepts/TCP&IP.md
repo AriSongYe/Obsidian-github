@@ -1,0 +1,2 @@
+  
+TCP/IP(Transmission Control Protocol/Internet Protocol)는 컴퓨터 [[Network]]에서 [[Data]] 통신을 위한 핵심 프로토콜 스택입니다. 이것은 인터넷을 포함한 다양한 네트워크에서 데이터를 안정적으로 전송하고 통신하는 데 사용됩니다. TCP/IP는 인터넷의 기초적인 기술로 널리 알려져 있으며, 다양한 응용 프로그램 및 서비스에서 데이터 통신을 가능하게 합니다.

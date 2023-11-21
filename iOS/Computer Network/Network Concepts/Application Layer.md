@@ -1,0 +1,1 @@
+응용 계층(Application Layer)은 컴퓨터 [[Network]]의 [[OSI]](Open Systems Interconnection) 모델 또는 [[TCP/IP]] 모델에서 가장 상위에 위치하는 계층 중 하나입니다. 이 계층은 사용자 및 응용 프로그램과 네트워크 간의 상호 작용을 지원하며, [[Application]] [[Program]]이 네트워크를 통해 데이터를 교환할 수 있도록 합니다. 응용 계층은 다음과 같은 주요 기능을 수행합니다:
